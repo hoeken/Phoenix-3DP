@@ -1,0 +1,6 @@
+*.FCStd1
+**/.DS_Store
+*.bkp
+*.~*
+*.FCStd1
+*.dtmp
